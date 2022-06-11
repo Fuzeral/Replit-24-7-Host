@@ -1,0 +1,6 @@
+language = "python3"
+run = """
+pip install discord.py
+pip install flask
+python3 main.py
+"""
